@@ -3,6 +3,8 @@ SQL mutation testing majigger
 
 * [Mutation Testing Advances: An Analysis and Survey](https://mutationtesting.uni.lu/survey.pdf)
 
+* [Mutation testing of PL/SQL programs](https://www.sciencedirect.com/science/article/abs/pii/S0164121222001145)
+
 * [Wikipedia: Mutation Testing](https://en.wikipedia.org/wiki/Mutation_testing):
     - Goals of mutation testing:
       - Identify weakly tested pieces of code (for which mutants aren't killed).
